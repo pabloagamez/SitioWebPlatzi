@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BACKUP\\USB\\CursosPlatzi\\WebApps\\PlatziWebSite\\PlatziWebSite.csproj": {}
+    "C:\\BACKUP\\USB\\CursosPlatzi\\WebApps\\SitioWebPlatzi\\PlatziWebSite\\PlatziWebSite.csproj": {}
   },
   "projects": {
-    "C:\\BACKUP\\USB\\CursosPlatzi\\WebApps\\PlatziWebSite\\PlatziWebSite.csproj": {
+    "C:\\BACKUP\\USB\\CursosPlatzi\\WebApps\\SitioWebPlatzi\\PlatziWebSite\\PlatziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BACKUP\\USB\\CursosPlatzi\\WebApps\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectUniqueName": "C:\\BACKUP\\USB\\CursosPlatzi\\WebApps\\SitioWebPlatzi\\PlatziWebSite\\PlatziWebSite.csproj",
         "projectName": "PlatziWebSite",
-        "projectPath": "C:\\BACKUP\\USB\\CursosPlatzi\\WebApps\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectPath": "C:\\BACKUP\\USB\\CursosPlatzi\\WebApps\\SitioWebPlatzi\\PlatziWebSite\\PlatziWebSite.csproj",
         "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\BACKUP\\USB\\CursosPlatzi\\WebApps\\PlatziWebSite\\obj\\",
+        "outputPath": "C:\\BACKUP\\USB\\CursosPlatzi\\WebApps\\SitioWebPlatzi\\PlatziWebSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
